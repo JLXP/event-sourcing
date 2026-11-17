@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ticketing.Query")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee91c78bce450a22973cfdc5275994a45d0fd6cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfa6ef6d5959fa6814803451046db82a9ae09f72")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ticketing.Query")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ticketing.Query")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketing.Command", "Projec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketing.Query", "Projects\Ticketing.Query\Ticketing.Query.csproj", "{970D006A-4A20-4FC0-A743-36C95CE11F1D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{881589EE-639B-0A35-DBCE-5D94E4FC90C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Core", "Common\Common.Core\Common.Core.csproj", "{E2D7AD89-9648-4CDC-AE23-99AC7CC09DAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +47,18 @@ Global
 		{970D006A-4A20-4FC0-A743-36C95CE11F1D}.Release|x64.Build.0 = Release|Any CPU
 		{970D006A-4A20-4FC0-A743-36C95CE11F1D}.Release|x86.ActiveCfg = Release|Any CPU
 		{970D006A-4A20-4FC0-A743-36C95CE11F1D}.Release|x86.Build.0 = Release|Any CPU
+		{E2D7AD89-9648-4CDC-AE23-99AC7CC09DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2D7AD89-9648-4CDC-AE23-99AC7CC09DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2D7AD89-9648-4CDC-AE23-99AC7CC09DAF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E2D7AD89-9648-4CDC-AE23-99AC7CC09DAF}.Debug|x64.Build.0 = Debug|Any CPU
+		{E2D7AD89-9648-4CDC-AE23-99AC7CC09DAF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E2D7AD89-9648-4CDC-AE23-99AC7CC09DAF}.Debug|x86.Build.0 = Debug|Any CPU
+		{E2D7AD89-9648-4CDC-AE23-99AC7CC09DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2D7AD89-9648-4CDC-AE23-99AC7CC09DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2D7AD89-9648-4CDC-AE23-99AC7CC09DAF}.Release|x64.ActiveCfg = Release|Any CPU
+		{E2D7AD89-9648-4CDC-AE23-99AC7CC09DAF}.Release|x64.Build.0 = Release|Any CPU
+		{E2D7AD89-9648-4CDC-AE23-99AC7CC09DAF}.Release|x86.ActiveCfg = Release|Any CPU
+		{E2D7AD89-9648-4CDC-AE23-99AC7CC09DAF}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,5 +66,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{27120348-0CDB-49F1-BFAF-553FB2220106} = {17245595-230B-9055-A944-863F0DDDA8E8}
 		{970D006A-4A20-4FC0-A743-36C95CE11F1D} = {17245595-230B-9055-A944-863F0DDDA8E8}
+		{E2D7AD89-9648-4CDC-AE23-99AC7CC09DAF} = {881589EE-639B-0A35-DBCE-5D94E4FC90C0}
 	EndGlobalSection
 EndGlobal
