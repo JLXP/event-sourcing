@@ -1,4 +1,4 @@
-using Microsoft.AspNetCore.Mvc.Diagnostics;
+using Common.Core.Events;
 using MongoDB.Bson.Serialization.Attributes;
 using Ticketing.Command.Domain.Common;
 
