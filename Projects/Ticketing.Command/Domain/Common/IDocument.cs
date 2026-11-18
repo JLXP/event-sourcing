@@ -1,3 +1,6 @@
+using MongoDB.Bson;
+using MongoDB.Bson.Serialization.Attributes;
+
 namespace Ticketing.Command.Domain.Common;
 
 
@@ -5,5 +8,5 @@ public interface IDocument
 {
     [BsonId]
     [BsonRepresentation(BsonType.String)]
-    Object Id {get;set;}
+    ObjectId Id {get;set;}
 }
