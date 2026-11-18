@@ -1,0 +1,13 @@
+/Users/javierleonardo/Desktop/CURSOS/DOTNET/EVENT-SOURCING/Common/Common.Core/bin/Debug/net10.0/Common.Core.deps.json
+/Users/javierleonardo/Desktop/CURSOS/DOTNET/EVENT-SOURCING/Common/Common.Core/bin/Debug/net10.0/Common.Core.dll
+/Users/javierleonardo/Desktop/CURSOS/DOTNET/EVENT-SOURCING/Common/Common.Core/bin/Debug/net10.0/Common.Core.pdb
+/Users/javierleonardo/Desktop/CURSOS/DOTNET/EVENT-SOURCING/Common/Common.Core/obj/Debug/net10.0/Common.Core.csproj.AssemblyReference.cache
+/Users/javierleonardo/Desktop/CURSOS/DOTNET/EVENT-SOURCING/Common/Common.Core/obj/Debug/net10.0/Common.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/javierleonardo/Desktop/CURSOS/DOTNET/EVENT-SOURCING/Common/Common.Core/obj/Debug/net10.0/Common.Core.AssemblyInfoInputs.cache
+/Users/javierleonardo/Desktop/CURSOS/DOTNET/EVENT-SOURCING/Common/Common.Core/obj/Debug/net10.0/Common.Core.AssemblyInfo.cs
+/Users/javierleonardo/Desktop/CURSOS/DOTNET/EVENT-SOURCING/Common/Common.Core/obj/Debug/net10.0/Common.Core.csproj.CoreCompileInputs.cache
+/Users/javierleonardo/Desktop/CURSOS/DOTNET/EVENT-SOURCING/Common/Common.Core/obj/Debug/net10.0/Common.Core.sourcelink.json
+/Users/javierleonardo/Desktop/CURSOS/DOTNET/EVENT-SOURCING/Common/Common.Core/obj/Debug/net10.0/Common.Core.dll
+/Users/javierleonardo/Desktop/CURSOS/DOTNET/EVENT-SOURCING/Common/Common.Core/obj/Debug/net10.0/refint/Common.Core.dll
+/Users/javierleonardo/Desktop/CURSOS/DOTNET/EVENT-SOURCING/Common/Common.Core/obj/Debug/net10.0/Common.Core.pdb
+/Users/javierleonardo/Desktop/CURSOS/DOTNET/EVENT-SOURCING/Common/Common.Core/obj/Debug/net10.0/ref/Common.Core.dll

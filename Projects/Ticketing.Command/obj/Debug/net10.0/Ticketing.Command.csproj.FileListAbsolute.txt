@@ -32,3 +32,12 @@
 /Users/javierleonardo/Desktop/CURSOS/DOTNET/EVENT-SOURCING/Projects/Ticketing.Command/obj/Debug/net10.0/Ticketing.Command.pdb
 /Users/javierleonardo/Desktop/CURSOS/DOTNET/EVENT-SOURCING/Projects/Ticketing.Command/obj/Debug/net10.0/Ticketing.Command.genruntimeconfig.cache
 /Users/javierleonardo/Desktop/CURSOS/DOTNET/EVENT-SOURCING/Projects/Ticketing.Command/obj/Debug/net10.0/ref/Ticketing.Command.dll
+/Users/javierleonardo/Desktop/CURSOS/DOTNET/EVENT-SOURCING/Projects/Ticketing.Command/bin/Debug/net10.0/DnsClient.dll
+/Users/javierleonardo/Desktop/CURSOS/DOTNET/EVENT-SOURCING/Projects/Ticketing.Command/bin/Debug/net10.0/MongoDB.Bson.dll
+/Users/javierleonardo/Desktop/CURSOS/DOTNET/EVENT-SOURCING/Projects/Ticketing.Command/bin/Debug/net10.0/MongoDB.Driver.dll
+/Users/javierleonardo/Desktop/CURSOS/DOTNET/EVENT-SOURCING/Projects/Ticketing.Command/bin/Debug/net10.0/Newtonsoft.Json.dll
+/Users/javierleonardo/Desktop/CURSOS/DOTNET/EVENT-SOURCING/Projects/Ticketing.Command/bin/Debug/net10.0/SharpCompress.dll
+/Users/javierleonardo/Desktop/CURSOS/DOTNET/EVENT-SOURCING/Projects/Ticketing.Command/bin/Debug/net10.0/Snappier.dll
+/Users/javierleonardo/Desktop/CURSOS/DOTNET/EVENT-SOURCING/Projects/Ticketing.Command/bin/Debug/net10.0/ZstdSharp.dll
+/Users/javierleonardo/Desktop/CURSOS/DOTNET/EVENT-SOURCING/Projects/Ticketing.Command/bin/Debug/net10.0/Common.Core.dll
+/Users/javierleonardo/Desktop/CURSOS/DOTNET/EVENT-SOURCING/Projects/Ticketing.Command/bin/Debug/net10.0/Common.Core.pdb
